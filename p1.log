@@ -1,0 +1,8 @@
+2017-05-19 02:22:53,046 : DEBUG :you are in p1 funcn f1 debug mode,log file p1
+2017-05-19 02:22:53,046 : ERROR :you are in p1 funcn f1 error mode,log file p1
+2017-05-19 02:22:53,046 : DEBUG :you are in p1 funcn f2 debug mode,log file p1
+2017-05-19 02:22:53,048 : ERROR :you are in p1 funcn f2 error mode,log file p1
+2017-05-19 02:22:53,049 : DEBUG :you are in p3 funcn f6 debug mode,log file p1
+2017-05-19 02:22:53,049 : ERROR :you are in p3 funcn f6 error mode,log file p1
+2017-05-19 02:22:53,049 : DEBUG :you are in p1 funcn f5 debug mode,log file p1
+2017-05-19 02:22:53,049 : ERROR :you are in p1 funcn f5 error mode,log file p1

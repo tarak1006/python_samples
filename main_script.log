@@ -1,0 +1,16 @@
+2017-05-19 01:57:03,907 : DEBUG :often makes a very good meal of visiting tourists
+2017-05-19 01:57:03,913 : DEBUG :you are in debug mode in main script, log file main
+2017-05-19 01:57:03,913 : INFO :you are in info mode in main script,log file main
+2017-05-19 01:57:03,913 : WARNING :you are in warning mode in main script,log file main
+2017-05-19 01:57:03,914 : ERROR :you are in error mode in main script,log file main
+2017-05-19 01:57:03,914 : CRITICAL :you are in critical mode in main script,log file main
+2017-05-19 02:19:45,269 : DEBUG :you are in debug mode in main script, log file main
+2017-05-19 02:19:45,269 : INFO :you are in info mode in main script,log file main
+2017-05-19 02:19:45,269 : WARNING :you are in warning mode in main script,log file main
+2017-05-19 02:19:45,269 : ERROR :you are in error mode in main script,log file main
+2017-05-19 02:19:45,269 : CRITICAL :you are in critical mode in main script,log file main
+2017-05-19 02:22:53,049 : DEBUG :you are in debug mode in main script, log file main
+2017-05-19 02:22:53,049 : INFO :you are in info mode in main script,log file main
+2017-05-19 02:22:53,049 : WARNING :you are in warning mode in main script,log file main
+2017-05-19 02:22:53,049 : ERROR :you are in error mode in main script,log file main
+2017-05-19 02:22:53,049 : CRITICAL :you are in critical mode in main script,log file main
