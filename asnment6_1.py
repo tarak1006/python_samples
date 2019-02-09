@@ -8,7 +8,7 @@ mail.ehlo()
 
 mail.starttls()
 
-mail.login('kandula.tarakaram@gmail.com','ammulu123')
+mail.login('email','')
 message = 'Subject: {}\n\n{}'.format(SUBJECT, TEXT)
 mail.sendmail('kandula.tarakaram@gmail.com','eswarkandula004@gmail.com',message)
 
